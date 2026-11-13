@@ -1,0 +1,6 @@
+discount_pct,promotions,avg_unit_uplift_pct,incremental_revenue,incremental_profit,share_profitable_pct
+10.0,40,60.5,5385.0,397.0,65.0
+15.0,36,87.8,7071.0,108.0,50.0
+20.0,43,126.0,12768.0,-1177.0,28.0
+25.0,24,155.0,7058.0,-1067.0,12.0
+30.0,18,165.3,6229.0,-1799.0,6.0

@@ -1,0 +1,8 @@
+weekday,weekday_order,avg_daily_revenue,avg_daily_baskets,avg_basket_value,index_vs_avg_day
+Monday,0,3030.76,200.3,15.13,90.2
+Tuesday,1,2872.07,190.2,15.1,85.5
+Wednesday,2,2979.62,196.9,15.13,88.7
+Thursday,3,3277.28,218.5,15.0,97.6
+Friday,4,4159.43,275.9,15.07,123.8
+Saturday,5,4859.91,321.4,15.12,144.7
+Sunday,6,2346.38,156.5,14.99,69.9

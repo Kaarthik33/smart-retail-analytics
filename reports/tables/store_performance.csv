@@ -1,0 +1,4 @@
+store_id,store_name,baskets,revenue,avg_basket_value,units_per_basket,margin_pct
+S01,FreshMart City Center,73580,1108597.12,15.07,5.79,32.2
+S02,FreshMart Riverside,54172,818711.63,15.11,5.81,32.2
+S03,FreshMart Express Station,35051,528220.92,15.07,5.79,32.2

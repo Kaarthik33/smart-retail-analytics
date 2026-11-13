@@ -1,0 +1,121 @@
+category,month,revenue_per_day,seasonal_index
+Bakery,1,241.29,96.7
+Bakery,2,258.42,103.5
+Bakery,3,248.43,99.5
+Bakery,4,245.02,98.1
+Bakery,5,247.59,99.2
+Bakery,6,239.68,96.0
+Bakery,7,237.15,95.0
+Bakery,8,258.31,103.5
+Bakery,9,244.44,97.9
+Bakery,10,250.92,100.5
+Bakery,11,255.55,102.4
+Bakery,12,269.02,107.8
+Beverages,1,577.18,98.6
+Beverages,2,561.45,96.0
+Beverages,3,569.29,97.3
+Beverages,4,545.66,93.3
+Beverages,5,558.53,95.5
+Beverages,6,547.14,93.5
+Beverages,7,557.99,95.4
+Beverages,8,596.37,101.9
+Beverages,9,582.69,99.6
+Beverages,10,613.92,104.9
+Beverages,11,622.0,106.3
+Beverages,12,688.97,117.8
+Dairy,1,517.83,100.8
+Dairy,2,529.92,103.2
+Dairy,3,527.4,102.7
+Dairy,4,488.95,95.2
+Dairy,5,480.82,93.6
+Dairy,6,492.44,95.9
+Dairy,7,468.21,91.2
+Dairy,8,500.07,97.4
+Dairy,9,495.99,96.6
+Dairy,10,520.95,101.5
+Dairy,11,552.57,107.6
+Dairy,12,586.5,114.2
+Frozen,1,132.85,85.4
+Frozen,2,140.75,90.5
+Frozen,3,146.91,94.5
+Frozen,4,150.52,96.8
+Frozen,5,160.73,103.4
+Frozen,6,162.48,104.5
+Frozen,7,167.94,108.0
+Frozen,8,170.11,109.4
+Frozen,9,156.7,100.8
+Frozen,10,163.05,104.9
+Frozen,11,158.29,101.8
+Frozen,12,155.71,100.1
+Household,1,173.66,102.9
+Household,2,182.67,108.3
+Household,3,175.12,103.8
+Household,4,162.27,96.2
+Household,5,162.11,96.1
+Household,6,158.33,93.8
+Household,7,154.27,91.4
+Household,8,160.91,95.4
+Household,9,168.8,100.1
+Household,10,164.0,97.2
+Household,11,173.69,103.0
+Household,12,188.69,111.8
+Meat & Fish,1,450.86,95.8
+Meat & Fish,2,457.99,97.3
+Meat & Fish,3,472.17,100.3
+Meat & Fish,4,442.05,93.9
+Meat & Fish,5,464.84,98.8
+Meat & Fish,6,459.38,97.6
+Meat & Fish,7,460.9,97.9
+Meat & Fish,8,480.52,102.1
+Meat & Fish,9,457.29,97.2
+Meat & Fish,10,485.24,103.1
+Meat & Fish,11,500.04,106.3
+Meat & Fish,12,516.21,109.7
+Pantry,1,466.8,101.3
+Pantry,2,487.11,105.7
+Pantry,3,464.17,100.8
+Pantry,4,440.03,95.5
+Pantry,5,447.28,97.1
+Pantry,6,418.22,90.8
+Pantry,7,420.84,91.4
+Pantry,8,446.38,96.9
+Pantry,9,447.85,97.2
+Pantry,10,479.14,104.0
+Pantry,11,483.27,104.9
+Pantry,12,527.0,114.4
+Personal Care,1,191.89,104.6
+Personal Care,2,195.49,106.5
+Personal Care,3,194.42,105.9
+Personal Care,4,179.54,97.8
+Personal Care,5,173.54,94.6
+Personal Care,6,172.9,94.2
+Personal Care,7,179.98,98.1
+Personal Care,8,170.84,93.1
+Personal Care,9,169.36,92.3
+Personal Care,10,181.42,98.9
+Personal Care,11,190.67,103.9
+Personal Care,12,202.02,110.1
+Produce,1,377.84,88.6
+Produce,2,400.91,94.0
+Produce,3,431.1,101.1
+Produce,4,426.2,100.0
+Produce,5,452.34,106.1
+Produce,6,451.58,105.9
+Produce,7,463.25,108.6
+Produce,8,444.24,104.2
+Produce,9,421.42,98.8
+Produce,10,417.74,98.0
+Produce,11,406.55,95.3
+Produce,12,423.68,99.4
+Snacks,1,155.1,106.9
+Snacks,2,156.28,107.8
+Snacks,3,148.5,102.4
+Snacks,4,136.16,93.9
+Snacks,5,118.32,81.6
+Snacks,6,116.25,80.1
+Snacks,7,120.51,83.1
+Snacks,8,132.58,91.4
+Snacks,9,143.97,99.3
+Snacks,10,162.89,112.3
+Snacks,11,171.46,118.2
+Snacks,12,178.42,123.0
