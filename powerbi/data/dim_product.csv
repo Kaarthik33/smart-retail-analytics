@@ -1,0 +1,74 @@
+product_id,product_name,category,unit_price,unit_cost,lead_time_days
+P001,Bananas,Produce,1.49,0.92,1
+P002,Apples,Produce,2.49,1.54,1
+P003,Tomatoes,Produce,2.29,1.42,1
+P004,Potatoes,Produce,2.99,1.85,1
+P005,Onions,Produce,1.29,0.8,1
+P006,Lettuce,Produce,1.19,0.74,1
+P007,Strawberries,Produce,3.49,2.16,1
+P008,Lemons,Produce,1.59,0.99,1
+P009,Avocados,Produce,1.99,1.23,1
+P010,Whole Milk,Dairy,1.19,0.86,2
+P011,Butter,Dairy,2.29,1.65,2
+P012,Eggs 12-pack,Dairy,3.19,2.3,2
+P013,Cheddar Cheese,Dairy,2.99,2.15,2
+P014,Parmesan,Dairy,3.79,2.73,2
+P015,Greek Yogurt,Dairy,1.49,1.07,2
+P016,Cooking Cream,Dairy,0.99,0.71,2
+P017,Mozzarella,Dairy,1.29,0.93,2
+P018,White Bread,Bakery,1.79,0.98,1
+P019,Wholegrain Bread,Bakery,2.29,1.26,1
+P020,Burger Buns,Bakery,1.59,0.87,1
+P021,Croissants,Bakery,2.49,1.37,1
+P022,Tortilla Wraps,Bakery,1.89,1.04,1
+P023,Bagels,Bakery,2.19,1.2,1
+P024,Ground Beef,Meat & Fish,5.49,4.12,2
+P025,Chicken Breast,Meat & Fish,6.99,5.24,2
+P026,Bacon,Meat & Fish,2.79,2.09,2
+P027,Sausages,Meat & Fish,3.49,2.62,2
+P028,Salmon Fillet,Meat & Fish,7.99,5.99,2
+P029,Sliced Ham,Meat & Fish,2.49,1.87,2
+P030,Spaghetti,Pantry,0.99,0.67,5
+P031,Pasta Sauce,Pantry,1.99,1.35,5
+P032,Rice,Pantry,2.49,1.69,5
+P033,Olive Oil,Pantry,6.99,4.75,5
+P034,Flour,Pantry,0.89,0.61,5
+P035,Sugar,Pantry,1.29,0.88,5
+P036,Canned Tomatoes,Pantry,0.89,0.61,5
+P037,Tomato Soup,Pantry,1.49,1.01,5
+P038,Strawberry Jam,Pantry,2.19,1.49,5
+P039,Peanut Butter,Pantry,2.99,2.03,5
+P040,Cornflakes,Pantry,2.79,1.9,5
+P041,Muesli,Pantry,3.29,2.24,5
+P042,Ketchup,Pantry,2.29,1.56,5
+P043,Salsa Dip,Pantry,2.19,1.49,5
+P044,Coffee Beans,Beverages,6.49,4.54,4
+P045,Black Tea,Beverages,2.49,1.74,4
+P046,Orange Juice,Beverages,2.29,1.6,4
+P047,Cola,Beverages,1.59,1.11,4
+P048,Mineral Water 6-pack,Beverages,2.99,2.09,4
+P049,Lager Beer 6-pack,Beverages,5.99,4.19,4
+P050,Red Wine,Beverages,6.99,4.89,4
+P051,Sparkling Wine,Beverages,5.49,3.84,4
+P052,Oat Drink,Beverages,1.99,1.39,4
+P053,Tortilla Chips,Snacks,1.79,1.07,4
+P054,Potato Chips,Snacks,1.69,1.01,4
+P055,Milk Chocolate,Snacks,1.29,0.77,4
+P056,Butter Biscuits,Snacks,1.49,0.89,4
+P057,Salted Peanuts,Snacks,1.99,1.19,4
+P058,Gummy Bears,Snacks,1.19,0.71,4
+P059,Vanilla Ice Cream,Frozen,3.49,2.34,3
+P060,Frozen Pizza,Frozen,2.99,2.0,3
+P061,Frozen Peas,Frozen,1.49,1.0,3
+P062,Fish Fingers,Frozen,3.29,2.2,3
+P063,French Fries,Frozen,2.19,1.47,3
+P064,Toilet Paper,Household,4.49,2.92,7
+P065,Dish Soap,Household,1.79,1.16,7
+P066,Laundry Detergent,Household,7.99,5.19,7
+P067,Paper Towels,Household,2.99,1.94,7
+P068,Trash Bags,Household,2.49,1.62,7
+P069,Diapers,Personal Care,9.99,5.79,7
+P070,Baby Wipes,Personal Care,1.99,1.15,7
+P071,Shampoo,Personal Care,2.99,1.73,7
+P072,Toothpaste,Personal Care,1.99,1.15,7
+P073,Shower Gel,Personal Care,1.79,1.04,7
